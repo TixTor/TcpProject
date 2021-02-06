@@ -48,7 +48,7 @@ namespace TcpListenerProject
 				var client = server.AcceptTcpClient();
 				Console.WriteLine("Connected!");
 
-				// Get a stream object for reading and writing
+				// Get a stream object for reading and writing.
 				var stream = client.GetStream();
 
 				int i;
