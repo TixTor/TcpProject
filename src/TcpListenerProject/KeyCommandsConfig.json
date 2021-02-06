@@ -1,0 +1,1138 @@
+[
+  {
+    "commandId": "0",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 96
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 96
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "1",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 97
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 97
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "2",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 98
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 98
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "3",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 99
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 99
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "4",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 100
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 100
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "5",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 101
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 101
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "6",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 102
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 102
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "7",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 103
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 103
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "8",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 104
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 104
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "9",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 105
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 105
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "/",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 111
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 111
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "*",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 106
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 106
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "-",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 109
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 109
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "+",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 107
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 107
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "P",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 80
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 80
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "O",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 79
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 79
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "PageUp",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 33
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 33
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "PageDown",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 34
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 34
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "Home",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 36
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 36
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "End",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 35
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 35
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "[",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 219
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 219
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "]",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 221
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 221
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "K",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 75
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 75
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "Bart",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 49
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 49
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "Maxi",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 50
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 50
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "Menu",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 51
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 51
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "MaxiAFK",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 77
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 77
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "MaxiBack",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 78
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 78
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "B",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 66
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 66
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "D",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 68
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 68
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "V",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 86
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 86
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "C",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 67
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 67
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "N",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 78
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 78
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "Quote",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 222
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 222
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": ";",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 18
+      },
+      {
+        "keyDown": true,
+        "key": 186
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 186
+      },
+      {
+        "keyDown": false,
+        "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "Reset",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 106
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 106
+      }
+    ]
+  }
+]
