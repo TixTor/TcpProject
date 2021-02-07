@@ -36,6 +36,7 @@ namespace TcpClientForm
 		public TcpClientFormWindow()
 		{
 			this.ReadConfig();
+			this.InitServer();
 			this.InitializeComponent();
 			this.InitServerConfigForm();
 		}
@@ -44,12 +45,6 @@ namespace TcpClientForm
 		{
 			var uiConfig = File.ReadAllText("UIConfig.json");
 			var buttonsConfig = JsonConvert.DeserializeObject<dynamic>(uiConfig);
-
-			var serverConfigText = File.ReadAllText("config.json");
-			var serverConfig = JsonConvert.DeserializeObject<dynamic>(serverConfigText);
-
-			this.ipAddress = serverConfig.ipAddress;
-			this.portNumber = serverConfig.portNumber;
 
 			foreach (var buttonConfig in buttonsConfig)
 			{
@@ -82,6 +77,15 @@ namespace TcpClientForm
 				button.Visible = true;
 				Controls.Add(button);
 			}
+		}
+
+		private void InitServer()
+		{
+			var serverConfigText = File.ReadAllText("config.json");
+			var serverConfig = JsonConvert.DeserializeObject<dynamic>(serverConfigText);
+
+			this.ipAddress = serverConfig.ipAddress;
+			this.portNumber = serverConfig.portNumber;
 		}
 
 		private void button_Click(object sender, EventArgs e)
