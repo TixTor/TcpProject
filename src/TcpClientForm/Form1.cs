@@ -58,7 +58,7 @@ namespace TcpClientForm
 					BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch,
 					Font = new System.Drawing.Font(
 						"Microsoft Sans Serif",
-						(Single)buttonConfig.fontSize,
+						(Single)16,//buttonConfig.fontSize,
 						System.Drawing.FontStyle.Regular,
 						System.Drawing.GraphicsUnit.Point,
 						((byte)(0))),
@@ -70,13 +70,32 @@ namespace TcpClientForm
 					Text = buttonConfig.text,
 					TabIndex = 30,
 					UseVisualStyleBackColor = true,
-					BackgroundImage = buttonConfig.imagePath != null ? new Bitmap(buttonConfig.imagePath.ToString()) : null
+					BackgroundImage = ToGrayscale(buttonConfig.imagePath != null ? new Bitmap(buttonConfig.imagePath.ToString()) : null, 90)
 				};
 
 				button.Click += this.button_Click;
 				button.Visible = true;
 				Controls.Add(button);
 			}
+		}
+
+		private static Image ToGrayscale(Image s, int alpha)
+		{
+			if (s == null) return null;
+
+			Bitmap tImage = new Bitmap(s);
+
+			for (int x = 0; x < tImage.Width; x++)
+			{
+				for (int y = 0; y < tImage.Height; y++)
+				{
+					Color tCol = tImage.GetPixel(x, y);
+					Color newColor = Color.FromArgb(alpha, tCol.R, tCol.G, tCol.B);
+					tImage.SetPixel(x, y, newColor);
+				}
+			}
+			return tImage;
+
 		}
 
 		private void InitServer()
