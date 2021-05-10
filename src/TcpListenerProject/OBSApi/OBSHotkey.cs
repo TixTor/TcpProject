@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace TcpListenerProject
+namespace TcpListenerProject.OBSApi
 {
     /// <summary>
     /// OBS Hotkeys as defined here: https://github.com/obsproject/obs-studio/blob/master/libobs/obs-hotkeys.h
@@ -620,34 +618,5 @@ namespace TcpListenerProject
         OBS_KEY_VK_PA1,
         OBS_KEY_VK_OEM_CLEAR
 #pragma warning restore CS1591 // Missing XML comment for publicly visible type or member
-    }
-
-    [Flags]
-    public enum KeyModifier
-    {
-        /// <summary>
-        /// No modifiers
-        /// </summary>
-        None = 0b_0000_0000,  // 0
-
-        /// <summary>
-        /// Shift Key
-        /// </summary>
-        Shift = 0b_0000_0001,  // 1
-
-        /// <summary>
-        /// Alt Key
-        /// </summary>
-        Alt = 0b_0000_0010,  // 2
-
-        /// <summary>
-        /// Control Key
-        /// </summary>
-        Control = 0b_0000_0100,  // 4,
-
-        /// <summary>
-        /// Command (Mac) / WinKey (?) Windows
-        /// </summary>
-        Command = 0b_0000_1000   // 8
     }
 }

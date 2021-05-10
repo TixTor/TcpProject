@@ -38,9 +38,6 @@
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net40\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="obs-websocket-dotnet, Version=4.8.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\obs-websocket-dotnet.4.8.1\lib\netstandard2.0\obs-websocket-dotnet.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -56,8 +53,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enums.cs" />
-    <Compile Include="Helpers.cs" />
+    <Compile Include="KeyCommand.cs" />
+    <Compile Include="OBSApi\Exceptions.cs" />
+    <Compile Include="OBSApi\KeyModifier.cs" />
+    <Compile Include="OBSApi\OBSAuthInfo.cs" />
+    <Compile Include="OBSApi\OBSHotkey.cs" />
+    <Compile Include="OBSApi\OBSWebsocket.cs" />
+    <Compile Include="OBSApi\OBSWebsocket_Requests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -70,12 +72,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MessageCommands\MessageCommands.csproj">
-      <Project>{6EBF8488-B9C5-458D-AF33-D356B7F03922}</Project>
-      <Name>MessageCommands</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

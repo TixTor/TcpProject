@@ -1,17 +1,15 @@
-﻿using System;
+﻿#define MYDEBUG
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using WindowsInput;
 using WindowsInput.Native;
-using MessageCommands;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using WebSocketSharp;
-using OBSWebsocketDotNet;
+using TcpListenerProject.OBSApi;
 
 namespace TcpListenerProject
 {
@@ -50,6 +48,9 @@ namespace TcpListenerProject
 					whiteListedIpAddresses.Add(whiteIp);
 				}
 			}
+#if MYDEBUG
+			ipAddress = "192.168.2.95";
+#endif
 		}
 
 		private static void Main(string[] args)

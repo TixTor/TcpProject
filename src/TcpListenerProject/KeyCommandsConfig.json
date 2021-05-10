@@ -1068,14 +1068,14 @@
       },
       {
         "keyDown": true,
-        "key": 222
+        "key": 74
       },
       {
         "pause": 50
       },
       {
         "keyDown": false,
-        "key": 222
+        "key": 74
       },
       {
         "keyDown": false,
@@ -1112,6 +1112,134 @@
       {
         "keyDown": false,
         "key": 18
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "bg5",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 101
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 101
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "bg6",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 102
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 102
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "bg7",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 103
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 103
+      },
+      {
+        "keyDown": false,
+        "key": 160
+      },
+      {
+        "keyDown": false,
+        "key": 162
+      }
+    ]
+  },
+  {
+    "commandId": "bg8",
+    "keyPresses": [
+      {
+        "keyDown": true,
+        "key": 162
+      },
+      {
+        "keyDown": true,
+        "key": 160
+      },
+      {
+        "keyDown": true,
+        "key": 104
+      },
+      {
+        "pause": 50
+      },
+      {
+        "keyDown": false,
+        "key": 104
+      },
+      {
+        "keyDown": false,
+        "key": 160
       },
       {
         "keyDown": false,
